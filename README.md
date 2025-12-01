@@ -1,4 +1,4 @@
-# Yaritza del Rosario
+# Yaritza Del Rosario
 ### 👩‍💻 Data Analyst
 
 I help organizations make data-driven decisions by cleaning, analyzing, and interpreting large datasets.
